@@ -1,6 +1,6 @@
 # Dev Blocks&mdash;An unofficial Scratch mod
 
-The mod is going to soon be available at https://learndevtime.web.app/blocks.
+The mod is going to soon be available at https://learn-devtime.web.app/blocks.
 
 ## URL parameters
 
@@ -19,7 +19,7 @@ The URLs in URL parameters should be [URI encoded](https://developer.mozilla.org
 
 In addition, you can finish the URL with a hash followed by a project ID to load a project from the Scratch website or a URI encoded URL to a project file.
 
-For example, https://learndevtime.web.app/blocks?url=https://sheeptester.github.io/javascripts/utilities.js&width=640&height=360 will load sheeptester's [Utilities extension](https://scratch.mit.edu/discuss/topic/306317/) and use a 16:9 stage size.
+For example, https://learn-devtime.web.app/blocks?url=https://sheeptester.github.io/javascripts/utilities.js&width=640&height=360 will load sheeptester's [Utilities extension](https://scratch.mit.edu/discuss/topic/306317/) and use a 16:9 stage size.
 
 ## Development
 
