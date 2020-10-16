@@ -27,7 +27,7 @@ gui (you're here) &middot; [vm](https://github.com/SheepTester/scratch-vm/) &mid
 
 It's called DevBlocks for two reasons:
 
-* The name Linkly Blocks is beign use in a different DevTime Scripting Project
+* The name Linkly Blocks is being use in a different DevTime Scripting Project
 
 * To comply with the Scratch license, which forbids the usage of their name to promote derived products like this mod (because it might seem like the mod is official when it's not)
 
