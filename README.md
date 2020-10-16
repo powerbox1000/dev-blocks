@@ -1,6 +1,6 @@
 # Dev Blocks&mdash;An unofficial Scratch mod
 
-The mod is going to soon be available at https://learn-devtime.web.app/blocks.
+The mod is available at https://learn-devtime.web.app/blocks.
 
 ## URL parameters
 
