@@ -5,8 +5,8 @@ A modification of Scratch 3.0
 
 Name | URL | Safe? (see [this question](#safe))
 -----|----- | ------------------
-Stable | https://devtime-edu.web.app | √
-Beta | [https://powerbox1000.github.io/dangerzone/dev-blocks](https://powerbox1000.github.io/dangerzone/dev-blocks?warn=false) | X
+Stable | https://learn-devtime.web.app/blocks/ | √
+Beta | ~~[https://powerbox1000.github.io/dangerzone/dev-blocks](https://powerbox1000.github.io/dangerzone/dev-blocks?warn=false)~~ | X
 
 ## Releases (stable)
 Version | Description | Latest?
