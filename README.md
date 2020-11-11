@@ -7,7 +7,7 @@ Name | URL | Safe? (see [this question](#safe))
 -----|----- | ------------------
 Stable (production)| https://learn-devtime.web.app/blocks/ | √
 Stable (Develop) | https://powerbox1000.github.io/dev-blocks | √
-Beta | ~~[https://powerbox1000.github.io/dev-blocks](https://powerbox1000.github.io/dangerzone/dev-blocks?warn=false)~~ | X
+Beta | ~~[https://powerbox1000.github.io/dangerzone/dev-blocks](https://powerbox1000.github.io/dangerzone/dev-blocks?warn=false)~~ | X
 
 ## URL parameters
 
