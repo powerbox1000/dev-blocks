@@ -5,7 +5,8 @@ A modification of Scratch 3.0
 
 Name | URL | Safe? (see [this question](#safe))
 -----|----- | ------------------
-Stable | https://learn-devtime.web.app/blocks/ and [https://powerbox1000.github.io/dev-blocks] | √
+Stable (production)| https://learn-devtime.web.app/blocks/ | √
+Stable (Develop) | https://powerbox1000.github.io/dev-blocks | √
 Beta | ~~[https://powerbox1000.github.io/dev-blocks](https://powerbox1000.github.io/dangerzone/dev-blocks?warn=false)~~ | X
 
 ## URL parameters
